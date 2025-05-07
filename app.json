@@ -15,7 +15,7 @@
     },
     "AUTO_REJECT_CALL": {
       "description": "Enter yes for your bot to auto reject calls",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "AUTO_BIO": {
@@ -50,7 +50,7 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "𝐷𝐸ℕ𝐵𝙊𝑌",
       "required": false
     },
     "BOT_IMAGE": {
@@ -60,7 +60,7 @@
     },
     "PUBLIC_MODE": {
       "description": "Type yes for public mode or no for private mode",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -74,13 +74,13 @@
       "required": true 
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "description": "263789085533",
+      "value": "true",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "💚,🚀,🌎,✅"🤡,"
       "required": false 
     },
     "AUTO_REACT": {
@@ -95,11 +95,11 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "𝐷𝐸ℕ𝐵𝙊𝑌",
       "required": false
     },
     "SESSION_ID": {
-      "description": "Your session ID",
+      "description": "BWM-XMD;;;H4sIAAAAAAAAA61Vy47iRhT9l9rCDH4/kFpK2diADZiHgYYoigq7bIyf2GWDGbHLKspissgii/6MKPmefEF/QuSmW9PSZGY6UrwqlavOPffec099AEkaFNjENeh+AFkeVIjgZknqDIMuUErPwzloAxcRBLpgZuitGZ5XPAszbA5WFrto0WHaGZRjZxJdEq2zWcSzM73Vx3fg2gZZuYsC5yuAK3vsHorYqgoTDrzVvD5pU1qMIr6VSb1TriL6wu72i8M03NyBa4OIgjxIfC3b4xjnKDJxPUVB/jb6qnaJXGk8Ekzj4nJ7/sDbUU9f99ngPG8l46WB1RGz4Tx6Hb6Nfq+ktjutCKs+IyRIDJbaRkJZ7xymGlHPqTncDXvi0Q9bGnejXwR+gt2hixMSkPrNdU+VLbfDKVvDVmcN1bGRl9BeeLPp/HjviZpQ+XjA2UIvvXfeRnysRWSiWZq14VYRfejDATfig+Vwas06Th1RWrxaaSYcOufNa+LT/EUr4X+q+4gfZqvOoYfzFhHU/bFD7CiJR7HAHS1Dh/VxiLidNO6v3kj/MGGWnj08w/n06NQVpCrLpPraRI/i/qyC5uE+oblMlU4a9Yk+ImX+NZb6Ik62ht+6MIvcWtsHL7ivA3wk/fKk8Sent8U7k5sqVX4fT/j7PXKFXHB06FRbyZCtbEOqwGDZeJUtuFVrKcfigE+D091TRiGuhy7o0tc2yLEfFCRHJEiTZo9huDZAbrXATo7JU3lByxnvxUMoIgmnmqIsrcK+GJoWLuUp5Q3EosAX08qtfCUs70AbZHnq4KLA7iAoSJrXY1wUyMcF6H7/1Kkm6RzHKcFG4IIuYARWlGRK4nmW/a54f9ojUqAse59gAtrAy9N4jEGX5CVug6cLvAhVihEoQaIgxXCMxHKSqPBSj5F0uSf0mhTjW1A7iHFBUJyBLi1ygkBLMsVe2/8PD05QOIoRRV2QIKNwChRpKKmiJkNRZASW+wYP7vpDGyT4TG46bqov0G3gBXlBlkmZRSlyX0T+8hM5TlomZFEnjtoscA66r7YxIUHiF01mZYJyZx9UWG3yAF0PRQW+toGLq8DBDR7wTHpyv80XsxEm/sz5cdlPrd2p6eA+TW5HGJaTaLyj3jEuEt5xErN7J7ms+w4JkixJMufuGAE05bhZSHPni4p2Lrq9ImUvYSYdZR1FfhYYYkYJNJ49qfImRZxj96XKO+SEZWanIU6+gmsMe3JvmyThMBN4F3owS7bmjDbkVvgK9yZx0P3wybbV1G3wtraoSDozBU23mjifqaEr058LIkHNafD48PHPx4ePf/3902+PDx//eHz4/efHh19/aQI/d6WBdDFBQVQ07mPZVme+mfmZTU5ws1EXEJoQNoPz0sUXd7hNn+hJlG1pQS5fMhhdjPuMnq/3Y4MyDrBsxQov77bj4liy+/DfQEAX7FEUp5625bWQtJZh3hdtn0UwNaWTo+Io9e2Zk6omM67IJe77O82iFTMYxErNbQfZpJyuoXc+w0UksGa/0jeBvhWgf9dEu6npdTAcDl3fnkK+NNSzEupRNlJmy5keMydneYnLOb+uNSIfV/ayV7Ozs8KJ+wjFYTo3w+2hvyChWVz0wX59kKd45YwmG3198G++9eSb0fN7FTw7yk17XoCf7P+5K9/s3qcxoK7tVxjPD8oXpKZgtjPRLvvhseMIM8OpV4K7XKW26qqb06jKfOytGXtk5oTbgmsz31mEiJfmMeiCIt4h0AYRKgj8NMafO4Mki20Q1zDLFgSRl+kHsPms4xFc/wHc1WuHKAkAAA==",
       "value": "",
       "required": true
     },    
@@ -110,7 +110,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "",
+      "value": "3",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
